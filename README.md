@@ -2,7 +2,7 @@ Here’s a **README.md** file tailored for your project setup:
 
 ---
 
-# Flip Tree Challenge
+# Flip Tree Assessment E-commerce Webpage
 
 Welcome to the **Flip Tree Challenge**! This is a React project built using Vite, designed to provide a fast and efficient development experience.
 
